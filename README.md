@@ -1,4 +1,4 @@
 # Mandeep-s-Portfolio
 This is my portfolio.
 <br>
-Author - Mandeep Duhan
+Author - Mandeep Duhan ( Hisar)
